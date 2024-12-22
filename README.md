@@ -1,6 +1,4 @@
-# Fullstack React.js, Node.js, and Express
-
-## Overview
+# Fullstack React.js, Node.js, and Express 
 
 This repository contains a fullstack web application built with **React.js** for the frontend and **Node.js** with **Express** for the backend. The application provides a robust framework for developing dynamic web applications.
 
