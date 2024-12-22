@@ -1,4 +1,4 @@
-# Fullstack React.js, Node.js, and Express Application
+# Fullstack React.js, Node.js, and Express
 
 ## Overview
 
@@ -9,12 +9,12 @@ This repository contains a fullstack web application built with **React.js** for
 - **Frontend:**
   - React.js
   - React Router
-  - Axios
+  - Tailwind CSS 
 
 - **Backend:**
   - Node.js
   - Express
-  - MongoDB (optional for data storage)
+  - MYSQL
 
 ## Features
 
@@ -30,6 +30,6 @@ This repository contains a fullstack web application built with **React.js** for
 
 - Node.js (version 14 or higher)
 - npm (Node package manager)
-- MongoDB (if used for data storage)
+- MYSQL
 
 
