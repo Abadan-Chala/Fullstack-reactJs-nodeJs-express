@@ -13,11 +13,4 @@ This repository contains a fullstack web application built with **React.js** for
   - Express
   - MongoDB
 
-## Features
-
-- User authentication (registration and login)
-- CRUD operations
-- Responsive design
-- RESTful API for frontend-backend communication
-
 
